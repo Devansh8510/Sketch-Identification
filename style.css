@@ -1,0 +1,35 @@
+Body{
+    text-align: center;
+     color:yellow;
+    background-image: linear-gradient(to right top, #000000, #331019, #601025, #90092a, #c00028, #d52e36, #ea4845, #ff6054, #ff877f, #ffaca8, #ffd0cf, #f9f4f4);
+}
+h1{
+    font-family: cursive ;
+    margin-left: 150px;
+
+}
+#show{
+    float: right;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+#show_oname,#show_aname{
+    font-size: x-large;
+    color: yellow;
+    margin-top: 25px;
+    font-family:cursive ;
+
+}
+#clear{
+    color: rgb(102, 255, 0);
+    border-color: #001eff;
+    border-width: 5;
+    border-radius: 20px;
+
+}
+
+canvas{
+    box-shadow: 5px 7px 60px  rgb(0, 255, 170);
+    margin-top: 110px;
+    border-radius: 40px;
+}
